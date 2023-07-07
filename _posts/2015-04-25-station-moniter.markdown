@@ -1,8 +1,6 @@
 ---
 title:  "Station Moniter"
 subtitle: "Daily Data"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
 date:   2015-04-25 12:12:12
 ---

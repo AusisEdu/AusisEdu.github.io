@@ -2,6 +2,7 @@
 title:  "Station Moniter"
 subtitle: "Daily Data"
 image: "img/f.jpg"
+avatar: "img/authors/ausis.png"
 date:   2015-04-25 12:12:12
 ---
 

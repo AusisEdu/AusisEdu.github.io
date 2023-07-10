@@ -6,7 +6,8 @@ avatar: "img/authors/ausis.png"
 date:   2015-04-25 12:12:12
 ---
 
-### Today's data from all stations in the AuSIS network provided by IRIS
+### Today's data from all stations in the AuSIS network
+Click on a station to be taken to the IRIS Webicorder
 
 | Station | | School | 
 | ----------- |---| ----------- | 

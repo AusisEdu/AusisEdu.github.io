@@ -6,58 +6,57 @@ avatar: "img/authors/ausis.png"
 date:   2015-04-25 12:12:12
 ---
 
-### Today's data from the AuSIS network
-Click a station to be taken to IRIS Webicorder
+### Today's AuSIS data
+Station links to IRIS Webicorder
 
-| Station | | School | 
-| ----------- |---| ----------- | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUALB/webicorder/" target="_blank" rel="noopener noreferrer">AUALB</a> | | St Joseph's College, Albany, WA | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUALC/webicorder/" target="_blank" rel="noopener noreferrer">AUALC</a> | | St Philip's College, Alice Springs, NT | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUAPY/webicorder/" target="_blank" rel="noopener noreferrer">AUAPY</a> | | Ernabella Anangu School, SA | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUAYR/webicorder/" target="_blank" rel="noopener noreferrer">AUAYR</a> | | Ayr State High School, QLD | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUBRM/webicorder/" target="_blank" rel="noopener noreferrer">AUBRM</a> | | Broome Senior High School, WA | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUBRN/webicorder/" target="_blank" rel="noopener noreferrer">AUBRN</a> | | Burnie High School, TAS | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUBSH/webicorder/" target="_blank" rel="noopener noreferrer">AUBSH</a> | | Beerwah State High School, QLD | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUBUS/webicorder/" target="_blank" rel="noopener noreferrer">AUBUS</a> | | Georgiana Molloy Anglican School, Busselton, WA | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUCAR/webicorder/" target="_blank" rel="noopener noreferrer">AUCAR</a> | | St Mary Star of the Sea, Carnarvon, WA | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUCAS/webicorder/" target="_blank" rel="noopener noreferrer">AUCAS</a> | | Cummins Area School, SA | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUCSH/webicorder/" target="_blank" rel="noopener noreferrer">AUCSH</a> | | Cairns State High School, QLD | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUDAR/webicorder/" target="_blank" rel="noopener noreferrer">AUDAR</a> | | Daramalan College, Dickson, ACT | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUDCS/webicorder/" target="_blank" rel="noopener noreferrer">AUDCS</a> | | Dubbo College Senior Campus, NSW | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUDHS/webicorder/" target="_blank" rel="noopener noreferrer">AUDHS</a> | | Darwin High School, NT | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUGRF/webicorder/" target="_blank" rel="noopener noreferrer">AUGRF</a> | | Marion Catholic College, Griffith, NSW | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUHAR/webicorder/" target="_blank" rel="noopener noreferrer">AUHAR</a> | | St Anne's Primary School, Harvey, WA | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUHPC/webicorder/" target="_blank" rel="noopener noreferrer">AUHPC</a> | | Hawkesdale P12 School, VIC | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUJCS/webicorder/" target="_blank" rel="noopener noreferrer">AUJCS</a> | | Jamestown Community School, SA | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUKAL/webicorder/" target="_blank" rel="noopener noreferrer">AUKAL</a> | | John Paul College, Kalgoorlie, WA | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUKAR/webicorder/" target="_blank" rel="noopener noreferrer">AUKAR</a> | | St Luke's College, Karratha, WA | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUKAT/webicorder/" target="_blank" rel="noopener noreferrer">AUKAT</a> | | Katherine High School, NT | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUKHS/webicorder/" target="_blank" rel="noopener noreferrer">AUKHS</a> | | Kincumber High School, NSW | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUKSC/webicorder/" target="_blank" rel="noopener noreferrer">AUKSC</a> | | Keysborough Secondary College, VIC | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUKUL/webicorder/" target="_blank" rel="noopener noreferrer">AUKUL</a> | | Kulin District High School, WA | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AULHS/webicorder/" target="_blank" rel="noopener noreferrer">AULHS</a> | | Lilydale High School, TAS | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AULRC/webicorder/" target="_blank" rel="noopener noreferrer">AULRC</a> | | Lightning Ridge Central School, NSW | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUMAG/webicorder/" target="_blank" rel="noopener noreferrer">AUMAG</a> | | Moama Anglican Grammar School, NSW | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUMAR/webicorder/" target="_blank" rel="noopener noreferrer">AUMAR</a> | | Marden Senior College, SA | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUMAZ/webicorder/" target="_blank" rel="noopener noreferrer">AUMAZ</a> | | Mazenod Senior College, Perth, WA | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUMBR/webicorder/" target="_blank" rel="noopener noreferrer">AUMBR</a> | | Murray Bridge High School, SA | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUMHS/webicorder/" target="_blank" rel="noopener noreferrer">AUMHS</a> | | Melrose High School, Pearce, ACT | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUMOU/webicorder/" target="_blank" rel="noopener noreferrer">AUMOU</a> | | Moura State High School, QLD | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUMTC/webicorder/" target="_blank" rel="noopener noreferrer">AUMTC</a> | | Mt Clear College, Ballarat, VIC | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUMTS/webicorder/" target="_blank" rel="noopener noreferrer">AUMTS</a> | | Mt Stromlo Observatory, Canberra, ACT | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUMUL/webicorder/" target="_blank" rel="noopener noreferrer">AUMUL</a> | | Mullumbimby High School, NSW | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUNHS/webicorder/" target="_blank" rel="noopener noreferrer">AUNHS</a> | | Nhulunbuy High School, NT | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUNRC/webicorder/" target="_blank" rel="noopener noreferrer">AUNRC</a> | | North Rockhampton State High School, QLD | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUPHS/webicorder/" target="_blank" rel="noopener noreferrer">AUPHS</a> | | Peel High School, Tamworth, NSW | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUPKL/webicorder/" target="_blank" rel="noopener noreferrer">AUPKL</a> | | Parklands High School, Burnie, TAS | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AURMK/webicorder/" target="_blank" rel="noopener noreferrer">AURMK</a> | | Renmark High School, SA | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUROX/webicorder/" target="_blank" rel="noopener noreferrer">AUROX</a> | | Roxby Downs High School, SA | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AURSC/webicorder/" target="_blank" rel="noopener noreferrer">AURSC</a> | | Rosebud Secondary College, VIC | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUSIS/webicorder/" target="_blank" rel="noopener noreferrer">AUSIS</a> | | RSES, Australian National University, ACT | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUSMG/webicorder/" target="_blank" rel="noopener noreferrer">AUSMG</a> | | Snowy Mountains Grammar School, Jindabyne, NSW | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUSSC/webicorder/" target="_blank" rel="noopener noreferrer">AUSSC</a> | | Sale College, VIC | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUTAR/webicorder/" target="_blank" rel="noopener noreferrer">AUTAR</a> | | Taroona High School, TAS | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUTKS/webicorder/" target="_blank" rel="noopener noreferrer">AUTKS</a> | | The King's School, Parramatta, NSW | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUTOO/webicorder/" target="_blank" rel="noopener noreferrer">AUTOO</a> | | Toowoomba State High School, QLD | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUUHS/webicorder/" target="_blank" rel="noopener noreferrer">AUUHS</a> | | Ulladulla High School, NSW | 
-| <a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUWSH/webicorder/" target="_blank" rel="noopener noreferrer">AUWSH</a> | | Wavell State High School, Wavell Heights, QLD |
+#### Station links 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUALB/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUALB: St Joseph's College, Albany, WA</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUALC/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUALC: St Philip's College, Alice Springs, NT</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUAPY/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUAPY: Ernabella Anangu School, SA</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUAYR/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUAYR: Ayr State High School, QLD</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUBRM/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUBRM: Broome Senior High School, WA</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUBRN/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUBRN: Burnie High School, TAS</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUBSH/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUBSH: Beerwah State High School, QLD</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUBUS/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUBUS: Georgiana Molloy Anglican School, Busselton, WA</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUCAR/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUCAR: St Mary Star of the Sea, Carnarvon, WA</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUCAS/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUCAS: Cummins Area School, SA</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUCSH/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUCSH: Cairns State High School, QLD</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUDAR/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUDAR: Daramalan College, Dickson, ACT</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUDCS/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUDCS: Dubbo College Senior Campus, NSW</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUDHS/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUDHS: Darwin High School, NT</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUGRF/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUGRF: Marion Catholic College, Griffith, NSW</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUHAR/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUHAR: St Anne's Primary School, Harvey, WA</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUHPC/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUHPC: Hawkesdale P12 School, VIC</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUJCS/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUJCS: Jamestown Community School, SA</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUKAL/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUKAL: John Paul College, Kalgoorlie, WA</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUKAR/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUKAR: St Luke's College, Karratha, WA</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUKAT/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUKAT: Katherine High School, NT</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUKHS/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUKHS: Kincumber High School, NSW</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUKSC/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUKSC: Keysborough Secondary College, VIC</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUKUL/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUKUL: Kulin District High School, WA</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AULHS/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AULHS: Lilydale High School, TAS</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AULRC/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AULRC: Lightning Ridge Central School, NSW</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUMAG/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUMAG: Moama Anglican Grammar School, NSW</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUMAR/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUMAR: Marden Senior College, SA</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUMAZ/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUMAZ: Mazenod Senior College, Perth, WA</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUMBR/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUMBR: Murray Bridge High School, SA</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUMHS/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUMHS: Melrose High School, Pearce, ACT</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUMOU/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUMOU: Moura State High School, QLD</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUMTC/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUMTC: Mt Clear College, Ballarat, VIC</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUMTS/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUMTS: Mt Stromlo Observatory, Canberra, ACT</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUMUL/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUMUL: Mullumbimby High School, NSW</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUNHS/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUNHS: Nhulunbuy High School, NT</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUNRC/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUNRC: North Rockhampton State High School, QLD</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUPHS/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUPHS: Peel High School, Tamworth, NSW</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUPKL/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUPKL: Parklands High School, Burnie, TAS</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AURMK/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AURMK: Renmark High School, SA</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUROX/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUROX: Roxby Downs High School, SA</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AURSC/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AURSC: Rosebud Secondary College, VIC</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUSIS/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUSIS: RSES, Australian National University, ACT</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUSMG/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUSMG: Snowy Mountains Grammar School, Jindabyne, NSW</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUSSC/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUSSC: Sale College, VIC</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUTAR/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUTAR: Taroona High School, TAS</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUTKS/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUTKS: The King's School, Parramatta, NSW</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUTOO/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUTOO: Toowoomba State High School, QLD</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUUHS/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUUHS: Ulladulla High School, NSW</a> 
+<a href="https://www.iris.edu/app/station_monitor/#Today/S1-AUWSH/webicorder/" style="color:blue;" target="_blank" rel="noopener noreferrer">AUWSH: Wavell State High School, Wavell Heights, QLD</a>

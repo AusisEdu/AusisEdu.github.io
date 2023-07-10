@@ -1,0 +1,11 @@
+---
+title:  "Station Status"
+subtitle: "Online station check"
+avatar: "img/authors/ausis.png"
+image: "img/e.jpg"
+date:   2015-04-24 12:12:12
+---
+
+### Check the status of the stations in the AuSIS network.
+
+This link provides real-time station status via an external website: <a href="https://auspass.edu.au/slmon/" target="_blank" rel="noopener noreferrer">Station Status</a>

@@ -9,7 +9,9 @@ date:   2023-06-26 12:12:12
 ### Event 11694169
 Provide a brief explanation
 
-#### Station links 
+#### Test link
+<a href="https://ausisedu.github.io/#/2099/06/29/example-quake" target="_blank" style="color:blue;" rel="noopener noreferrer">Example quake page</a> <br>
+
 #### Station links 
 <a href="https://www.iris.edu/app/station_monitor/#2023-05-10T16:02:00/S1-AUALB/trace/S1-AUALB|11694169" target="_blank" style="color:blue;" rel="noopener noreferrer">AUALB: St Joseph's College, Albany, WA</a> <br> 
 <a href="https://www.iris.edu/app/station_monitor/#2023-05-10T16:02:00/S1-AUALC/trace/S1-AUALC|11694169" target="_blank" style="color:blue;" rel="noopener noreferrer">AUALC: St Philip's College, Alice Springs, NT</a> <br> 

@@ -6,6 +6,18 @@ image: "img/contact.jpg"
 date:   2023-06-22 12:12:12
 ---
 
-### Check the status of the stations in the AuSIS network.
+### Drop us a line!
 
-This link provides real-time station status via an external website: <a href="https://auspass.edu.au/slmon/" style="color:blue;" target="_blank" rel="noopener noreferrer">Station Status</a>
+For more information contact:
+
+Michelle Salmon
+Phone: +61-02-6125-1168 
+Email: ausis@anu.edu.au
+
+Website: http://ausis.edu.au
+
+Join us on Facebook: http://www.facebook.com/ausisnetwork
+Follow us on Twitter:   
+Follow us on Instagram: @AuSISedu https://www.instagram.com/ausisedu/?hl=en
+
+For website comments, please contact Michelle above.

@@ -16,10 +16,10 @@ Phone: +61-02-6125-1168
 
 Email: ausis@anu.edu.au
 
-Join us on Facebook: http://www.facebook.com/ausisnetwork
+Join us on <a href="https://www.facebook.com/ausisnetwork" style="color:blue;" target="_blank" rel="noopener noreferrer">Facebook</a>
 
-Follow us on Twitter: <a href="https://twitter.com/ausisedu" style="color:blue;" target="_blank" rel="noopener noreferrer">@AuSISedu</a>
+Follow us on <a href="https://twitter.com/ausisedu" style="color:blue;" target="_blank" rel="noopener noreferrer">Twitter</a>
 
-Follow us on Instagram: <a href="https://www.instagram.com/ausisedu/?hl=en" style="color:blue;" target="_blank" rel="noopener noreferrer">@AuSISedu</a>
+Follow us on <a href="https://www.instagram.com/ausisedu/?hl=en" style="color:blue;" target="_blank" rel="noopener noreferrer">Instagram</a>
 
 For website comments, please contact Michelle above.

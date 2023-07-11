@@ -1,8 +1,8 @@
 ---
-title:  "Contact"
-subtitle: "Drop us a line"
+title:  " "
+subtitle: " "
 avatar: "img/authors/ausis.png"
-image: "img/station-status.jpg"
+image: "img/contact.jpg"
 date:   2023-06-22 12:12:12
 ---
 

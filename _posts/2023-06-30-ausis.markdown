@@ -3,7 +3,7 @@ title:  "AuSIS"
 subtitle: "About us"
 avatar: "img/authors/ausis.png"
 image: "img/b.jpg"
-date:   2015-04-21 12:12:12
+date:   2023-06-30 12:12:12
 ---
 
 ### Dolor sit amet?

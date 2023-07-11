@@ -3,7 +3,7 @@ title:  "Recent Earthquakes"
 subtitle: "Explore recent quakes"
 avatar: "img/authors/ausis.png"
 image: "img/d.jpg"
-date:   2015-04-23 12:12:12
+date:   2023-06-27 12:12:12
 ---
 
 ### USGS page showing latest quakes

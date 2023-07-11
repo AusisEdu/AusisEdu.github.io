@@ -3,7 +3,7 @@ title:  "Educational resources"
 subtitle: "Cool stuff!"
 avatar: "img/authors/ausis.png"
 image: "img/i.jpg"
-date:   2015-04-20 12:12:12
+date:   2023-06-29 12:12:12
 ---
 
 ### Dolor sit amet?

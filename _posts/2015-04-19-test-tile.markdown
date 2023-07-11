@@ -3,7 +3,7 @@ title:  "Test tile!"
 subtitle: "add a tile!"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/g.jpg"
+image: "img/h.jpg"
 date:   2015-04-19 12:12:12
 ---
 

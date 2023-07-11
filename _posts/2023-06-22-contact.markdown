@@ -11,13 +11,15 @@ date:   2023-06-22 12:12:12
 For more information contact:
 
 Michelle Salmon
+
 Phone: +61-02-6125-1168 
+
 Email: ausis@anu.edu.au
 
-Website: http://ausis.edu.au
-
 Join us on Facebook: http://www.facebook.com/ausisnetwork
-Follow us on Twitter:   
-Follow us on Instagram: @AuSISedu https://www.instagram.com/ausisedu/?hl=en
+
+Follow us on Twitter: <a href="https://twitter.com/ausisedu" style="color:blue;" target="_blank" rel="noopener noreferrer">@AuSISedu</a>
+
+Follow us on Instagram: <a href="https://www.instagram.com/ausisedu/?hl=en" style="color:blue;" target="_blank" rel="noopener noreferrer">@AuSISedu</a>
 
 For website comments, please contact Michelle above.

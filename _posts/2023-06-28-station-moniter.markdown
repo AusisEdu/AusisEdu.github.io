@@ -1,7 +1,7 @@
 ---
 title:  "Station Moniter"
 subtitle: "Daily Data"
-image: "img/f.jpg"
+image: "img/station-monitor.jpg"
 avatar: "img/authors/ausis.png"
 date:   2023-06-28 12:12:12
 ---

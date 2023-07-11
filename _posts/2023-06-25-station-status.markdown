@@ -3,7 +3,7 @@ title:  "Station Status"
 subtitle: "Online station check"
 avatar: "img/authors/ausis.png"
 image: "img/station-status.jpg"
-date:   2025-06-23 12:12:12
+date:   2023-06-23 12:12:12
 ---
 
 ### Check the status of the stations in the AuSIS network.

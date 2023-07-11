@@ -1,6 +1,6 @@
 ---
 title:  "Station Status"
-subtitle: "Online station check"
+subtitle: "Online station healthcare"
 avatar: "img/authors/ausis.png"
 image: "img/station-status.jpg"
 date:   2023-06-23 12:12:12

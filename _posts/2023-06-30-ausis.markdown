@@ -9,7 +9,7 @@ date:   2023-06-30 12:12:12
 
 The Australian Seismometers in Schools project (AuSIS) is an outreach program to put 50 earthquake-measuring seismometers in Australian Schools, and thereby raise awareness of geoscience through observing our dynamic earth in motion. Students are required to look after their own seismometer and in doing so be a part of a national science experiment. The Australian Seismometers in Schools project aims to:
 
-- Raise community awareness of regional earthquakes;
+- Raise community awareness of regional earthquakes; test
 - Raise awareness of seismology and, more generally geoscience, as a field of study;
 - Promote science as a possible career choice;
 - Provide a tool to teachers to assist in teaching physics and earth science to high school students.

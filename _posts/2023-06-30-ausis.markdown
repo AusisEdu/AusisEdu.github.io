@@ -15,3 +15,7 @@ The Australian Seismometers in Schools project (AuSIS) is an outreach program to
 - The AuSIS network also has friends around the world working on similar programs, such as in the USA, Italy, Ireland, UK and France Seismometer in Schools program.
 
 The Australian Seismometers in Schools program was initially a four-year project (2011-2014) funded by the Geophysical Education Observatory component of AuScope Australian Geophysical Observing System (AGOS) funded by the Federal Government, under the Education Infrastructure Scheme. The Auscope main page can be found at <a href="https://www.auscope.org.au/" style="color:blue;" target="_blank" rel="noopener noreferrer">www.auscope.org.au</a>.
+
+### AuSIS Contributors
+
+![contributors](img/contributors.jpg)

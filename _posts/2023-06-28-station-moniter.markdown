@@ -3,7 +3,7 @@ title:  "Station Moniter"
 subtitle: "Daily Data"
 image: "img/f.jpg"
 avatar: "img/authors/ausis.png"
-date:   2015-04-25 12:12:12
+date:   2023-06-28 12:12:12
 ---
 
 ### Today's AuSIS data

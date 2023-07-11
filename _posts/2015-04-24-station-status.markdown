@@ -2,7 +2,7 @@
 title:  "Station Status"
 subtitle: "Online station check"
 avatar: "img/authors/ausis.png"
-image: "img/g.jpg"
+image: "img/station-status.jpg"
 date:   2015-04-24 12:12:12
 ---
 

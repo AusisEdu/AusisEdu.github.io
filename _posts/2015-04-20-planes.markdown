@@ -1,9 +1,8 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
+title:  "Educational resources"
+subtitle: "Cool stuff!"
+avatar: "img/authors/ausis.png"
+image: "img/i.jpg"
 date:   2015-04-20 12:12:12
 ---
 

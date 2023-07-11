@@ -2,7 +2,7 @@
 title:  "Recent Earthquakes"
 subtitle: "Explore recent quakes"
 avatar: "img/authors/ausis.png"
-image: "img/d.jpg"
+image: "img/recent-quakes.jpg"
 date:   2023-06-27 12:12:12
 ---
 

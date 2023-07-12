@@ -3,7 +3,7 @@ title:  "example quake"
 subtitle: "Date"
 avatar: "img/authors/ausis.png"
 image: "img/i.jpg"
-date:   2099-06-29 12:12:12
+date:   2020-06-29 12:12:12
 ---
 
 ### Dolor sit amet?

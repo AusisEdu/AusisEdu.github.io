@@ -2,7 +2,7 @@
 title:  "AuSIS"
 subtitle: "About us"
 avatar: "img/authors/ausis.png"
-image: "img/AuSIS.jpeg"
+image: "img/AuSIS.jpg"
 date:   2023-06-30 12:12:12
 ---
 ### What is AuSIS?

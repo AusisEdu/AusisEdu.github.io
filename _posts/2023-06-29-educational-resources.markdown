@@ -2,7 +2,7 @@
 title:  "Educational resources"
 subtitle: "Cool stuff!"
 avatar: "img/authors/ausis.png"
-image: "img/i.jpg"
+image: "img/books.jpg"
 date:   2023-06-29 12:12:12
 ---
 

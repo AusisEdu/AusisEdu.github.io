@@ -1,5 +1,5 @@
 ---
-title:  "Educational resources"
+title:  "Education"
 subtitle: "Cool stuff!"
 avatar: "img/authors/ausis.png"
 image: "img/books.jpg"
